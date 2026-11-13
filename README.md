@@ -21,6 +21,8 @@ Tools for working with AI coding agents, built and refined on real projects. Eac
 
 两者可以配合：审查标准在需要量化结构变化时调用记分卡取数。
 
+已归档：[full-spectrum-review](https://github.com/liuyejinghong/full-spectrum-review)（v0.13.0，通用规则已并入 review-standard 0.2.0）。
+
 ## 安装
 
 每个工具的 README 有各自的安装说明。作为 Claude Code skill 使用时，把仓库克隆到任意目录，再在 `~/.claude/skills/` 下建一个指向它的链接：
