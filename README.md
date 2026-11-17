@@ -32,6 +32,10 @@ git clone https://github.com/liuyejinghong/review-standard.git ~/field-lab/revie
 ln -s ~/field-lab/review-standard ~/.claude/skills/review-standard
 ```
 
+## 同一作者的其他项目
+
+- [Tripwire Bench · 踩雷榜](https://liuyejinghong.github.io/tripwire-bench-site/)：量化交易系统 coding benchmark，比较哪个模型最适合写和维护交易系统。
+
 ## 许可证
 
 各工具分别以 MIT 许可证发布。
